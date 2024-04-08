@@ -1,4 +1,10 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif))](https://vinayjagannavar.netlify.app/)
+<br>
+<p align="center">
+  <a href="https://vinayjagannavar.netlify.app/">
+    <img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" alt="MasterHead" />
+  </a>
+</p>
+
 <h1 align="center">Hello👋, I'm Vinay Jagannavar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 

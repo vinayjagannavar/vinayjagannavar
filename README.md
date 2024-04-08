@@ -1,7 +1,9 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif))](https://vinayjagannavar.netlify.app/)
 <h1 align="center">Hello👋, I'm Vinay Jagannavar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://33.media.tumblr.com/1e568035178b1f4f13559a7068172319/tumblr_ninugsLO3F1tgyrb1o1_500.gif">
+https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayjagannavar&label=Profile%20views&color=0e75b6&style=flat" alt="vinayjagannavar" /> </p>
 

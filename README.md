@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **vdjagann@syr.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z_qtJYqdUK6m68EemH70vG9PTh-lu3HA/view](https://drive.google.com/file/d/1Z_qtJYqdUK6m68EemH70vG9PTh-lu3HA/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ArTPHoGUAGLDvges3rJXEmXM1HeyY2N4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -16,11 +16,11 @@
 
 - 🤝 I’m looking for help with **Full-Time Job Opportunities**
 
-- 👨‍💻 All of my projects are available at [https://vinayjagannavar.netlify.app/](https://vinayjagannavar.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://vinayjagannavar.netlify.app/)
 
 - 📫 How to reach me **vdjagann@syr.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ArTPHoGUAGLDvges3rJXEmXM1HeyY2N4/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1jjbQGFUDELLSNLV13cXKCXCKPlPx5oLr/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

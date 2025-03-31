@@ -6,19 +6,19 @@
 </p>
 
 <h1 align="center">Hello👋, I'm Vinay Jagannavar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://33.media.tumblr.com/1e568035178b1f4f13559a7068172319/tumblr_ninugsLO3F1tgyrb1o1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayjagannavar&label=Profile%20views&color=0e75b6&style=flat" alt="vinayjagannavar" /> </p>
 
-- 🌱 I’m currently pursuing **MS in Computer Science**
+- 🌱 I’m recently pursued **MS in Computer Science**
 
 - 🤝 I’m looking for help with **Full-Time Job Opportunities**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://vinayjagannavar.netlify.app/)
 
-- 📫 How to reach me **vdjagann@syr.edu**
+- 📫 How to reach me **vinayjagannavar1996@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1jjbQGFUDELLSNLV13cXKCXCKPlPx5oLr/view?usp=drive_link))
 
